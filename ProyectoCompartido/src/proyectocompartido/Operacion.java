@@ -10,5 +10,7 @@ package proyectocompartido;
  * @author Develop
  */
 public class Operacion {
-    
+    public void Test(){
+        System.out.println("");
+    }
 }
