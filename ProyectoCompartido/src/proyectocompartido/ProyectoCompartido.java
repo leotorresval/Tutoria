@@ -21,4 +21,8 @@ public class ProyectoCompartido {
         System.out.println("la suma de los numeros es:"+ (a+b));
     }
     
+    public void multiplicacion(int a, int b){
+        System.out.println("la suma de los numeros es:"+ (a*b));
+    }
+    
 }
