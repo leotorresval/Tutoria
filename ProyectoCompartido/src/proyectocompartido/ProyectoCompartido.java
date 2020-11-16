@@ -17,5 +17,10 @@ public class ProyectoCompartido {
     public static void main(String[] args) {
         System.out.println("Hola Mundo");
     }
+    public void imprime(){
+        System.out.println("TestPrint");
+        System.out.println("TestPrint");
+        System.out.println("TestPrint");
+    }
     
 }
