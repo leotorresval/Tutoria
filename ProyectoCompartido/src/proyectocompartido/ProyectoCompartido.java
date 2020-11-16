@@ -23,4 +23,8 @@ public class ProyectoCompartido {
         System.out.println("TestPrint");
     }
     
+    public void resta(int a, int b){
+        System.out.println("La resta es:" +(a-b));
+    }
+    
 }
