@@ -17,6 +17,7 @@ public class ProyectoCompartido {
     public static void main(String[] args) {
         System.out.println("Hola Mundo");
     }
+
     public void imprime(){
         System.out.println("TestPrint");
         System.out.println("TestPrint");
@@ -25,6 +26,16 @@ public class ProyectoCompartido {
     
     public void resta(int a, int b){
         System.out.println("La resta es:" +(a-b));
+
+    }
+    
+    public void suma(int a, int b){
+        System.out.println("la suma de los numeros es:"+ (a+b));
+    }
+    
+    public void multiplicacion(int a, int b){
+        System.out.println("la suma de los numeros es:"+ (a*b));
+
     }
     
 }
